@@ -20,7 +20,7 @@ description: in love with text editors
 
 # List of links in the navigation bar
 navbar-links:
-  Thought: "blogs"
+  Thoughts: "posts"
   Resume: "/img/AbhishekResume.pdf"
   About Me: "aboutme"
 
