@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Let hands do the talking
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Personal Note
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Abhishek Chandratre. I believe in repetation with progress is key to success.
 
-What else do you need?
+> "I fear not the man who has praciced 10,000 kicks once,
+>  but I fear the man who has practiced one kick 10,000 times"
+>                                               - Bruce Lee
 
-### my history
+This quote motivates me to do tasks with more energy and optimism.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+# Technical Note
+
+I am Software Engineer, working at [A10 Networks](https://www.a10networks.com "A10 Networks"), earned Master degree from UNC, Charlotte.
+
+Recently I have been working with C, C++, Python and deploying applications on Linux and Containers.
