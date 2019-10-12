@@ -65,23 +65,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
   email: "abhishekchandratre@gmail.com"
   facebook: abhishek.chandratre.9
   github: abhishekchandratre
   linkedin: abhishek-chandratre
-#  twitter: daattali
-#  reddit: yourname
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -91,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abhishekchandratre.github.com"
 
 # --- Web Statistics Section --- #
 
@@ -154,7 +141,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Pacific-Daylight-Time"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
