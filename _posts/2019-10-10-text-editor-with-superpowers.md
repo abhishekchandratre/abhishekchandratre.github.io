@@ -15,7 +15,7 @@ In this post I will advocate Vim, Emacs as Text editor with superpowers and try 
 Vim, and Emacs have stood the test of time and would continue to do so for several more decades. These tools would assist you throughout your career.
 
 ## Gain new perspective
-These tool would you a new way at looking at user interface, solving problems. Mac OSX support Emacs keybindings in every single text box, websites like Facebook, Twitter, Reddit support Vim's j/k navigation keys. Using these tools would open lot opportunities to do everyday task more efficiently.
+These tool would empower with a new way at looking at user interface, solving problems. Mac OSX support Emacs keybindings in every single text box, websites like Facebook, Twitter, Reddit support Vim's j/k navigation keys. Using these tools would open lot opportunities to do everyday task more efficiently.
 
 ## Focusing on problem
 The most important aspect of learning these tools is - once you earn the muscle memory these tools get out of your way. Then your brain can focus deeply on the problem and let muscle memory deal with the typing.
