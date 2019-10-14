@@ -21,6 +21,6 @@ Software Engineer, working at [A10 Networks](https://www.a10networks.com "A10 Ne
 
 I have been professionally engaged with C, C++, Python and deploying applications on Linux servers and on Docker/K8s platforms.
 
-Currently in process of imbibing Function Programming concepts, to eloquently express and solve problems.
+Currently in process of imbibing Functional Programming Languages concepts, to eloquently express and solve problems.
 
 Feel free to say Hi using any of the following mediums.
